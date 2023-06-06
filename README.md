@@ -1,7 +1,7 @@
 ## Chatting API With SOCKET.IO
 
 <p>There is only one file in this repo named app.js</p>
-<p>>this file shows a simple implementation of how to use socket and express js</p>
+<p>This file shows a simple implementation of how to use socket and express js</p>
 <p>The file basically connects to the socket and within each connection it contains the socket connection for both the messenger and the receiver</p>
 
 <h3>Future Feature to come to the API</h3>
