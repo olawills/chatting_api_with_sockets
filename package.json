@@ -1,0 +1,15 @@
+{
+  "name": "chatting_api_with_scokets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2"
+  }
+}
