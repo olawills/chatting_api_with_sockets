@@ -13,4 +13,4 @@
     <p> Save users to Database </p>
 </ul>
 
-### The Frontend implementation can be found at <a href = "https://github.com/olawills/simple_chat_app_with_nodejs" target=”_blank”>Link to Backend</a>
+### The Frontend implementation can be found at <a href = "https://github.com/olawills/simple_chat_app_with_nodejs" target=”_blank”>Link to Frontend</a>
